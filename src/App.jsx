@@ -10,7 +10,7 @@ function App() {
     <>
       <NavBar></NavBar>
       {/* <DaisyNav></DaisyNav> */}
-      <h1 className="text-4xl bg-purple-400">Vite + React</h1>
+      <h1 className="text-4xl bg-purple-400">React Awesome Component</h1>
       <PriceOptions></PriceOptions>
       <LineChart></LineChart>
       <Phones></Phones>
